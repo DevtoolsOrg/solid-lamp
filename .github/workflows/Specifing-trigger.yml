@@ -26,5 +26,5 @@ jobs:
       id: transition
       uses: atlassian/gajira-transition@master
       with:
-        issue: CM-64
-        transition: "In progress"
+        issue: CM-55
+        transition: "Done"
