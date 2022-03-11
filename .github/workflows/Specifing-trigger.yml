@@ -26,5 +26,5 @@ jobs:
       id: transition
       uses: atlassian/gajira-transition@master
       with:
-        issue: CM-55
+        issue: CM-73
         transition: "Done"
